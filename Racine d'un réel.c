@@ -28,7 +28,7 @@ int main(int argc, char *argv[]) {
 			 
 			  for(i=0;i<n;i++){
 			 R=Newton(tab[i],precision);
-			 printf("la racine de %d vaut:%d\n",tab[i],R);
+			 printf("la racine de %d vaut:%f\n",tab[i],R);
 			 }
 			 
 			 
