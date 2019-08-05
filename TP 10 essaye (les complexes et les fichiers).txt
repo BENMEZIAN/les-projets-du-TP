@@ -1,0 +1,10 @@
+1.000000+i2.000000
+1.000000+i2.000000
+leur somme vaut:2.000000+i4.000000
+leur produit vaut:-3.000000+i4.000000
+leur difference vaut:0.000000+i0.000000
+le module de z1 vaut:2.236068
+le module de z2 vaut:2.236068
+leur conjuges vaut:
+le conjuge de z1 vaut:1.000000-2.000000i
+le conjuge de z1 vaut:1.000000-2.000000i
