@@ -6,7 +6,7 @@ float Newton(float ,float );
 
 main() {
 	     
-	     int tab[10],n,i;  float R,precision=0.001;
+	     float tab[10];int n,i;  float R,precision=0.001;
 	     
 	         printf("donner la valeur de n:");
 	         do{
@@ -15,13 +15,13 @@ main() {
 			 
 			 for(i=0;i<n;i++){
 			 	printf("l'element tab[%d] est:",i);
-			 	scanf("%d",&tab[i]);
+			 	scanf("%f",&tab[i]);
 			 }
 			 
 			 printf("\n");
 			 
 			  for(i=0;i<n;i++){
-			 	printf("l'element tab[%d] est:%d\n",i,tab[i]);
+			 	printf("l'element tab[%d] est:%f\n",i,tab[i]);
 			 }
 			 
 			  printf("\n");
